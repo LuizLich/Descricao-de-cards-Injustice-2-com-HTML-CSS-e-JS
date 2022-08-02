@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Injustice Card</title>
+    
+
+    <link rel="shortcut icon" href="src/img/dc-logo.png" type="image/x-icon">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit&family=Sanchez:ital@0;1&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="src/css/reset.css">
+    <link rel="stylesheet" href="src/css/style.css">
+    <link rel="stylesheet" href="src/css/responsivo.css">
+
+</head>
+<body>
+    <header class="cabecalho">
+       <a href="https://www.injustice.com/pt-BR/characters/batman"><img src="src/img/dclogoo.png" alt="DC Logo" class="dclogo"></a>
+        <h1 class="titulo">MapaDev Week</h1>
+        <a href="https://github.com/LuizLich"><img class="githublogo" src="src/img/githublogo.png" alt="LuizLich github" style="width: 50px;
+            height: 50px;" ></a>
+    </header>
+
+    <main class="dc-slider">
+<button class="btn-seta btn-voltar" id="btn-voltar">
+    <img src="src/img/seta.png" alt="Seta direita">
+</button>
+
+<ul class="lista-personagens">
+    <li class="cartao selecionado fundo-1">
+        <div class="informacoes">
+            <h2 class="nome">Batman</h2>
+            <p class="vida">HP 1200</p>
+        </div>
+
+        <div class="container-imagem">
+            <img class="imagem-personagem" src="src/img/batman.png" alt="Batman">
+        </div>
+
+        <div class="descricao">
+            <h3 class="titulo">Descrição</h3>
+            <p class="texto">Mesmo depois de ter sido exposto ao mundo como o Batman, Bruce Wayne mantém seu juramento de vingar a morte dos pais e lutar pela justiça. Ele se recusa a executar seus inimigos, acreditando que, se passar desse limite, não será melhor que os covardes contra os quais luta.</p>
+        </div>
+    </li>
+
+    <li class="cartao fundo-2">
+        <div class="informacoes">
+            <h2 class="nome">Superman</h2>
+            <p class="vida">HP 3000</p>
+        </div>
+
+        <div class="container-imagem">
+            <img class="imagem-personagem" src="src/img/superman.png" alt="Superman">
+        </div>
+
+        <div class="descricao">
+            <h3 class="titulo">Descrição</h3>
+            <p class="texto">Depois da queda do Regime, Superman agora é morador permanente de uma prisão construída para conter e suprimir o Homem de Aço. Ainda de luto pela perda de Lois e seu filho não nascido, Superman insiste que a paz só é possível com a subjugação. Mas com uma nova ameaça, será que velhos inimigos podem forjar novas alianças?</p>
+        </div>
+    </li>
+    
+
+    <li class="cartao fundo-3">
+        <div class="informacoes">
+            <h2 class="nome">Mulher-Maravilha</h2>
+            <p class="vida">HP 3000</p>
+        </div>
+
+        <div class="container-imagem">
+            <img class="imagem-personagem" src="src/img/wonderwoman.png" alt="Mulher-Maravilha">
+        </div>
+
+        <div class="descricao">
+            <h3 class="titulo">Descrição</h3>
+            <p class="texto">Irmã exilada de Temiscira, a Mulher-Maravilha permanece escondida depois da queda do Regime. Ainda uma fiel ardorosa do Superman e do Regime, a Mulher-Maravilha espera a oportunidade de contra-atacar o Batman e libertar o Superman de sua prisão.</p>
+        </div>
+    </li>
+
+</ul>
+
+<button class="btn-seta" id="btn-avancar">
+    <img src="src/img/seta.png" alt="Seta esquerda">
+</button>
+    </main>
+    
+    <script src="src/js/index.js"></script>
+</body>
+</html>
