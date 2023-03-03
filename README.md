@@ -1,14 +1,18 @@
 # Site de cartas de Injustice 2 com HTML, CSS e JS
 Projeto desenvolvido no curso online MapaDevWeek, utilizando HTML, CSS e JavaScript. Cards que se alteram informando dados dos personagens do jogo fictício Injustice 2.
-
+<br><br>
+OBS: Todos os direitos de imagem para NetherRealm Studios e DC Comics.
 ## 🔹Imagens:
+- Página inicial, Batman. onde você pode avançar para o próximo personagem através do clique na seta;
+<img width="100%" alt="Tela Inicial" src="https://i.pinimg.com/originals/c3/24/2e/c3242eb8668101622a76898c6bf37e8e.png" />
+ 
+## 
+- Superman;
+<img width="100%" alt="Tela Inicial" src="https://i.pinimg.com/originals/bf/c2/4d/bfc24d0f0e6a1c4c83d74803ce27fdfa.png" />
 
-<img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/ff/74/a0/ff74a001f897327fca6d80adffa5b55c.gif" />
-
-- 🔭 I’m currently uploading my College/ personal projects here on Github;
-
-- 🌱 I’m currently learning C, HTML, CSS, JavaScript, Python and database; <br>
-
+##
+- Wonder-Woman;
+<img width="100%" alt="Tela Inicial" src="https://i.pinimg.com/originals/30/ad/f7/30adf7a873911ba6a75169221ed0c210.png" />
 
 
 <h2>👥 Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
