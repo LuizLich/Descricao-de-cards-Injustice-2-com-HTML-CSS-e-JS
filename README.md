@@ -15,7 +15,6 @@ OBS: Todos os direitos de imagem para NetherRealm Studios e DC Comics.
 <img width="100%" alt="Tela Inicial" src="https://i.pinimg.com/originals/30/ad/f7/30adf7a873911ba6a75169221ed0c210.png" />
 
 
-<h2>👥 Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 
 <a href="https://discord.com/channels/@LuizLich#5096"><img img width = '32px' align= 'center' src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-7-1.png"></a>
 <a href = 'https://www.github.com/LuizLich'> <img width = '32px' align= 'center' src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg"/></a>
